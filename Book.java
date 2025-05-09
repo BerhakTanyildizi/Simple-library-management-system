@@ -3,7 +3,6 @@ public class Book {
     private String author;
     private int ISBN;
     private boolean is_avaliable; 
-
     public Book(String title, String author ,int ISBN , boolean is_avaliable ){
         this.title = title;
         this.author = author;
